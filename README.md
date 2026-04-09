@@ -28,3 +28,6 @@ This project monitors patient health data and uses machine learning to detect ab
 - Integration with IoT devices  
 - Mobile app alerts  
 - Real-time dashboard  
+
+## Output Example
+The system classifies health conditions as NORMAL or ABNORMAL based on input data.
